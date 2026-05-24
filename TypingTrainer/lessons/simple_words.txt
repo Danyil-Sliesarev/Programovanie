@@ -1,0 +1,3 @@
+cat dog sun moon
+small steps make progress
+practice every day
